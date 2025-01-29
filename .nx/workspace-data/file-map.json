@@ -9,48 +9,198 @@
     }
   },
   "fileMap": {
-    "projectFileMap": {},
     "nonProjectFiles": [
       {
-        "file": ".eslintignore",
-        "hash": "4660892077869316414"
-      },
-      {
-        "file": ".eslintrc",
-        "hash": "5102390780827934146"
-      },
-      {
-        "file": ".gitignore",
-        "hash": "11553218470817294334"
+        "file": "commitlint.config.js",
+        "hash": "8480081998229499948"
       },
       {
         "file": ".prettierignore",
         "hash": "8697388935860843068"
       },
       {
-        "file": ".prettierrc",
-        "hash": "174943607064940844"
+        "file": "pnpm-workspace.yaml",
+        "hash": "10246952416044616091"
       },
       {
-        "file": "README.md",
-        "hash": "3244421341483603138"
+        "file": ".eslintignore",
+        "hash": "4660892077869316414"
       },
       {
-        "file": "commitlint.config.js",
-        "hash": "8480081998229499948"
+        "file": ".gitignore",
+        "hash": "11553218470817294334"
+      },
+      {
+        "file": "package.json",
+        "hash": "6776915921980939481"
       },
       {
         "file": "nx.json",
         "hash": "4682129947564415415"
       },
       {
-        "file": "package.json",
-        "hash": "10461727805593011505"
+        "file": "README.md",
+        "hash": "3244421341483603138"
       },
       {
-        "file": "pnpm-workspace.yaml",
-        "hash": "10246952416044616091"
+        "file": ".prettierrc",
+        "hash": "174943607064940844"
+      },
+      {
+        "file": "pnpm-lock.yaml",
+        "hash": "5026491411304040028"
+      },
+      {
+        "file": ".eslintrc",
+        "hash": "5102390780827934146"
       }
-    ]
+    ],
+    "projectFileMap": {
+      "01-nestjs-baseline-rest-apis": [
+        {
+          "file": "apps/01-nestjs-baseline-rest-apis/.eslintrc.js",
+          "hash": "7461846271827386206"
+        },
+        {
+          "file": "apps/01-nestjs-baseline-rest-apis/.gitignore",
+          "hash": "672911037926083482"
+        },
+        {
+          "file": "apps/01-nestjs-baseline-rest-apis/.prettierrc",
+          "hash": "4808572120966128913"
+        },
+        {
+          "file": "apps/01-nestjs-baseline-rest-apis/README.md",
+          "hash": "8286378509751487236"
+        },
+        {
+          "file": "apps/01-nestjs-baseline-rest-apis/nest-cli.json",
+          "hash": "789240945379598733"
+        },
+        {
+          "file": "apps/01-nestjs-baseline-rest-apis/package.json",
+          "hash": "629763653343853849",
+          "deps": [
+            "npm:@nestjs/cli",
+            "npm:@nestjs/schematics",
+            "npm:@nestjs/testing",
+            "npm:@types/express",
+            "npm:@types/jest",
+            "npm:@types/node",
+            "npm:@types/supertest",
+            "npm:@typescript-eslint/eslint-plugin@6.21.0",
+            "npm:@typescript-eslint/parser@6.21.0",
+            "npm:eslint@8.57.1",
+            "npm:eslint-config-prettier@9.1.0",
+            "npm:eslint-plugin-prettier",
+            "npm:jest",
+            "npm:prettier",
+            "npm:source-map-support",
+            "npm:supertest",
+            "npm:ts-jest",
+            "npm:ts-loader",
+            "npm:ts-node",
+            "npm:tsconfig-paths",
+            "npm:typescript",
+            "npm:@nestjs/common",
+            "npm:@nestjs/core",
+            "npm:@nestjs/platform-express",
+            "npm:reflect-metadata",
+            "npm:rxjs"
+          ]
+        },
+        {
+          "file": "apps/01-nestjs-baseline-rest-apis/src/app.controller.spec.ts",
+          "hash": "2727664763654384995"
+        },
+        {
+          "file": "apps/01-nestjs-baseline-rest-apis/src/app.controller.ts",
+          "hash": "4552329938751326480"
+        },
+        {
+          "file": "apps/01-nestjs-baseline-rest-apis/src/app.module.ts",
+          "hash": "11673476679848632172"
+        },
+        {
+          "file": "apps/01-nestjs-baseline-rest-apis/src/app.service.ts",
+          "hash": "16892833931858030153"
+        },
+        {
+          "file": "apps/01-nestjs-baseline-rest-apis/src/main.ts",
+          "hash": "16836780892212170881"
+        },
+        {
+          "file": "apps/01-nestjs-baseline-rest-apis/test/app.e2e-spec.ts",
+          "hash": "15142680097789702029"
+        },
+        {
+          "file": "apps/01-nestjs-baseline-rest-apis/test/jest-e2e.json",
+          "hash": "7570273541430074424"
+        },
+        {
+          "file": "apps/01-nestjs-baseline-rest-apis/tsconfig.build.json",
+          "hash": "276845246908739715"
+        },
+        {
+          "file": "apps/01-nestjs-baseline-rest-apis/tsconfig.json",
+          "hash": "1876265833229380624"
+        }
+      ],
+      "@dev/config": [
+        {
+          "file": "packages/app-config/package.json",
+          "hash": "1536873965368859467",
+          "deps": [
+            "npm:@nestjs/common@11.0.6",
+            "npm:@nestjs/config",
+            "npm:@nestjs/core@11.0.6",
+            "npm:@nestjs/testing@11.0.6",
+            "npm:@types/jest",
+            "npm:@types/node@22.12.0",
+            "npm:@types/uuid",
+            "npm:reflect-metadata@0.2.2",
+            "npm:rxjs",
+            "npm:tslib",
+            "npm:typescript",
+            "npm:uuid"
+          ]
+        },
+        {
+          "file": "packages/app-config/tsconfig.json",
+          "hash": "3820621729059294294"
+        }
+      ],
+      "@dev/database": [
+        {
+          "file": "packages/app-database/package.json",
+          "hash": "16385015759137435568",
+          "deps": [
+            "npm:@nestjs/common@11.0.6",
+            "npm:@nestjs/config",
+            "npm:@nestjs/core@11.0.6",
+            "npm:@nestjs/sequelize",
+            "npm:@nestjs/testing@11.0.6",
+            "npm:@nestjs/typeorm",
+            "npm:@types/express@5.0.0",
+            "npm:@types/jest",
+            "npm:@types/node@22.12.0",
+            "npm:@types/uuid",
+            "npm:express",
+            "npm:reflect-metadata@0.2.2",
+            "npm:rxjs",
+            "npm:sequelize",
+            "npm:sequelize-typescript",
+            "npm:tslib",
+            "npm:typeorm",
+            "npm:typescript",
+            "@dev/config"
+          ]
+        },
+        {
+          "file": "packages/app-database/tsconfig.json",
+          "hash": "3820621729059294294"
+        }
+      ]
+    }
   }
 }
