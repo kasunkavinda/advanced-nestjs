@@ -1,0 +1,56 @@
+{
+  "version": "6.0",
+  "nxVersion": "20.4.0",
+  "pathMappings": {},
+  "nxJsonPlugins": [],
+  "pluginsConfig": {
+    "@nx/js": {
+      "analyzeSourceFiles": false
+    }
+  },
+  "fileMap": {
+    "projectFileMap": {},
+    "nonProjectFiles": [
+      {
+        "file": ".eslintignore",
+        "hash": "4660892077869316414"
+      },
+      {
+        "file": ".eslintrc",
+        "hash": "5102390780827934146"
+      },
+      {
+        "file": ".gitignore",
+        "hash": "11553218470817294334"
+      },
+      {
+        "file": ".prettierignore",
+        "hash": "8697388935860843068"
+      },
+      {
+        "file": ".prettierrc",
+        "hash": "174943607064940844"
+      },
+      {
+        "file": "README.md",
+        "hash": "3244421341483603138"
+      },
+      {
+        "file": "commitlint.config.js",
+        "hash": "8480081998229499948"
+      },
+      {
+        "file": "nx.json",
+        "hash": "4682129947564415415"
+      },
+      {
+        "file": "package.json",
+        "hash": "10461727805593011505"
+      },
+      {
+        "file": "pnpm-workspace.yaml",
+        "hash": "10246952416044616091"
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+[NX Daemon Server] - 2025-01-29T14:53:38.089Z - Started listening on: /var/folders/vw/cw4_kx2j6b90y5swgjj9v6fc0000gn/T/0af833239e509769c655/d.sock
+[NX Daemon Server] - 2025-01-29T14:53:38.205Z - [WATCHER]: Subscribed to changes within: /Users/kasun/Desktop/Projects/tutorials/advance-nestjs (native)
+[NX Daemon Server] - 2025-01-29T14:53:38.206Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2025-01-29T14:53:38.207Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2025-01-29T14:53:38.208Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2025-01-29T14:53:38.209Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2025-01-29T14:53:38.209Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2025-01-29T14:53:38.209Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2025-01-29T14:53:38.211Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2025-01-29T14:53:38.211Z - [WATCHER]: Stopping the watcher for /Users/kasun/Desktop/Projects/tutorials/advance-nestjs (sources)
+[NX Daemon Server] - 2025-01-29T14:53:38.211Z - [WATCHER]: Stopping the watcher for /Users/kasun/Desktop/Projects/tutorials/advance-nestjs (outputs)
+[NX Daemon Server] - 2025-01-29T14:53:38.211Z - Server stopped because: "Request to shutdown"
