@@ -1,0 +1,14 @@
+
+> 01-nestjs-baseline-rest-apis@0.0.1 start:dev /Users/kasun/Desktop/Projects/tutorials/advance-nestjs/apps/01-nestjs-baseline-rest-apis
+> nest start --watch
+
+[2J[3J[H[[90m10:55:09 PM[0m] Starting compilation in watch mode...
+
+[[90m10:55:10 PM[0m] Found 0 errors. Watching for file changes.
+
+[32m[Nest] 55528  - [39m01/31/2025, 10:55:11 PM [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+[32m[Nest] 55528  - [39m01/31/2025, 10:55:11 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mAppModule dependencies initialized[39m[38;5;3m +5ms[39m
+[32m[Nest] 55528  - [39m01/31/2025, 10:55:11 PM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mAppController {/}:[39m[38;5;3m +2ms[39m
+[32m[Nest] 55528  - [39m01/31/2025, 10:55:11 PM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/, GET} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 55528  - [39m01/31/2025, 10:55:11 PM [32m    LOG[39m [38;5;3m[NestApplication] [39m[32mNest application successfully started[39m[38;5;3m +1ms[39m
+^C

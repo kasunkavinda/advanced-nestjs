@@ -1,18 +1,29 @@
 {
   "run": {
-    "command": "nx run 01-nestjs-baseline-rest-apis:start:dev",
-    "startTime": "2025-01-29T15:13:19.724Z",
-    "endTime": "2025-01-29T15:13:45.860Z",
+    "command": "nx run @dev/database:build",
+    "startTime": "2025-01-31T17:48:59.832Z",
+    "endTime": "2025-01-31T17:49:03.248Z",
     "inner": false
   },
   "tasks": [
     {
-      "taskId": "01-nestjs-baseline-rest-apis:start:dev",
-      "target": "start:dev",
-      "projectName": "01-nestjs-baseline-rest-apis",
-      "hash": "5055805260144238574",
-      "startTime": "2025-01-29T15:13:19.729Z",
-      "endTime": "2025-01-29T15:13:45.847Z",
+      "taskId": "@dev/config:build",
+      "target": "build",
+      "projectName": "@dev/config",
+      "hash": "9503362658272527295",
+      "startTime": "2025-01-31T17:48:59.836Z",
+      "endTime": "2025-01-31T17:49:01.570Z",
+      "params": "",
+      "cacheStatus": "cache-miss",
+      "status": 0
+    },
+    {
+      "taskId": "@dev/database:build",
+      "target": "build",
+      "projectName": "@dev/database",
+      "hash": "15115038295109908371",
+      "startTime": "2025-01-31T17:49:01.573Z",
+      "endTime": "2025-01-31T17:49:03.244Z",
       "params": "",
       "cacheStatus": "cache-miss",
       "status": 0
